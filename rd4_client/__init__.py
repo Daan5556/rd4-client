@@ -1,1 +1,1 @@
-from .api import get
+from .api import get_waste_calendar
